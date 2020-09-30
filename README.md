@@ -10,6 +10,4 @@
 
 JS, React.js, React Select 
 
-[Посмотреть на GH-pages](https://choosealicense.com/licenses/mit/)
-
-[Или здесь](https://choosealicense.com/licenses/mit/)
+[Посмотреть на GH-pages](https://varyalikhanina.github.io/country-finder)
