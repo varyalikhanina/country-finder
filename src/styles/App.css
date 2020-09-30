@@ -1,0 +1,32 @@
+body {
+  background-color: #283d3b;
+}
+
+#root {
+  margin: 300px auto;
+}
+
+.selectors {
+  display: flex;
+  justify-content: center;
+}
+
+.selectors__heading {
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.selector-country {
+  background-color: #fff;
+  width: 30%;
+  min-width: 300px;
+  margin-right: 20px;
+}
+
+.selector-number {
+  background-color: #fff;
+  width: 80px;
+}
